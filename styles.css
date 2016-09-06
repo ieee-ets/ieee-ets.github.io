@@ -1,0 +1,55 @@
+body {
+    font-family: Lato, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+}
+
+h1, h2, h3, p, ul, ol {
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+p {
+    text-align: justify;
+}
+
+h1 .subtitle {
+    font-size: 0.5em;
+    margin-left: 20px;
+}
+
+.wrapper {
+    margin: 0 auto;
+    padding: 50px;
+    background-color: white;
+    max-width: 1000px;
+}
+
+.ieeextreme {
+    position: relative;
+    background-color: #1372A6;
+    margin: 20px 0px;
+    left: -50px;
+    padding: 50px;
+    width: 100%;
+    color: white;
+    margin-bottom: 50px;
+}
+
+.ieeextreme a {
+    color: white;
+}
+
+.cta {
+    font-size: 1.3em;
+    padding: 20px 0px;
+}
+
+.ieeextreme .btn {
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-weight: 600;
+    padding: 0.5em 1em;
+    border: 0.15em solid white;
+    text-decoration: none;
+}
