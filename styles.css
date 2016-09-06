@@ -13,6 +13,10 @@ p {
     text-align: justify;
 }
 
+h1 {
+    margin-bottom: 50px;
+}
+
 h1 .subtitle {
     font-size: 0.5em;
     margin-left: 20px;
